@@ -1,22 +1,19 @@
 {
-    "Group": "Example",
-    "Name": "ExamplePlugin",
+    "Group": "com.mastermumin",
+    "Name": "MyFirstPlugin",
     "Version": "0.0.2",
-    "Description": "An example plugin for HyTale!",
+    "Main": "com.hytalegame.myfirstplugin.MyFirstPlugin",
+    "Description": "My first test plugin",
     "Authors": [
         {
-            "Name": "It's you!"
+            "Name": "MasterMumin"
         }
     ],
-    "Website": "example.org",
-    "ServerVersion": "*",
     "Dependencies": {
         
     },
     "OptionalDependencies": {
         
     },
-    "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
     "IncludesAssetPack": true
 }
