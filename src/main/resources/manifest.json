@@ -9,6 +9,8 @@
             "Name": "MasterMumin"
         }
     ],
+    "Website": "example.org",
+    "ServerVersion": "2026.02.17-255364b8e",
     "Dependencies": {
         
     },
